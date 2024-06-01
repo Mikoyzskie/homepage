@@ -198,7 +198,11 @@ body {
   text-decoration-color: var(--text-decoration-color);
   text-decoration-line: underline;
   text-align: left;
+}
+
+p.experiences__company-location {
   margin-bottom: 20px;
+  color: var(--durability-text-color);
 }
 
 .experiences__company-project {
